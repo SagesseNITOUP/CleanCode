@@ -1,0 +1,11 @@
+C:\Users\PC\Workspace\Student\Student.Domain\bin\Debug\net8.0\Student.Domain.deps.json
+C:\Users\PC\Workspace\Student\Student.Domain\bin\Debug\net8.0\Student.Domain.dll
+C:\Users\PC\Workspace\Student\Student.Domain\bin\Debug\net8.0\Student.Domain.pdb
+C:\Users\PC\Workspace\Student\Student.Domain\obj\Debug\net8.0\Student.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Workspace\Student\Student.Domain\obj\Debug\net8.0\Student.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\Workspace\Student\Student.Domain\obj\Debug\net8.0\Student.Domain.AssemblyInfo.cs
+C:\Users\PC\Workspace\Student\Student.Domain\obj\Debug\net8.0\Student.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Workspace\Student\Student.Domain\obj\Debug\net8.0\Student.Domain.dll
+C:\Users\PC\Workspace\Student\Student.Domain\obj\Debug\net8.0\refint\Student.Domain.dll
+C:\Users\PC\Workspace\Student\Student.Domain\obj\Debug\net8.0\Student.Domain.pdb
+C:\Users\PC\Workspace\Student\Student.Domain\obj\Debug\net8.0\ref\Student.Domain.dll
